@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33808.371
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsWrongAPI", "WhatsWrongAPI\WhatsWrongAPI.csproj", "{C91E6A5A-CF0D-4AEC-8AC7-66BED01BE18A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C91E6A5A-CF0D-4AEC-8AC7-66BED01BE18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91E6A5A-CF0D-4AEC-8AC7-66BED01BE18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91E6A5A-CF0D-4AEC-8AC7-66BED01BE18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91E6A5A-CF0D-4AEC-8AC7-66BED01BE18A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD558B1B-34FE-4E05-8735-9E30A7C9BAD3}
+	EndGlobalSection
+EndGlobal
